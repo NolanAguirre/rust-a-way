@@ -1,11 +1,10 @@
 # Java rust away
 
 * One interfaces
-
+* Two basic inheritance
 
 ## Stuff to cover
 
-* inheritance
 * generics
 * Lambdas
 * threading
@@ -14,6 +13,7 @@
 * enums
 * inline methods
 * threading
+* var ags
 * Data types
  * maps
  * queue
